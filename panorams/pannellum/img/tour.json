@@ -12,5 +12,6 @@
             "yaw": 0,
             "type": "equirectangular",
             "panorama": "Pano_4.jpg",
+        }
     }
 }
