@@ -13,15 +13,6 @@
             "type": "equirectangular",
             "panorama": "Pano_4.jpg",
             "hotSpots": [
-                {
-                    "pitch": -0.8,
-                    "yaw": -85,
-                    "type": "scene",
-                    "text": "Bridge",
-                    "sceneId": "bridge",
-                    "targetPitch": -30,
-                    "targetYaw": 20
-                }
             ]
         },
         
