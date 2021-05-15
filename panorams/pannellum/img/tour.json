@@ -1,0 +1,16 @@
+{
+    "default": {
+        "firstScene": "lake",
+        "author": "V.A. Marechal",
+        "sceneFadeDuration": 1000
+    },
+    
+    "scenes": {
+        "lake": {
+            "title": "Lake",
+            "hfov": 110,
+            "yaw": 0,
+            "type": "equirectangular",
+            "panorama": "Pano_4.jpg",
+    }
+}
